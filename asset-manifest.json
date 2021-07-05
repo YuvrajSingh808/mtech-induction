@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mtech-induction/static/css/main.f65cb5ec.chunk.css",
+    "main.js": "/mtech-induction/static/js/main.04b289a3.chunk.js",
+    "main.js.map": "/mtech-induction/static/js/main.04b289a3.chunk.js.map",
+    "runtime-main.js": "/mtech-induction/static/js/runtime-main.e6fa1054.js",
+    "runtime-main.js.map": "/mtech-induction/static/js/runtime-main.e6fa1054.js.map",
+    "static/js/2.cc2852f2.chunk.js": "/mtech-induction/static/js/2.cc2852f2.chunk.js",
+    "static/js/2.cc2852f2.chunk.js.map": "/mtech-induction/static/js/2.cc2852f2.chunk.js.map",
+    "static/js/3.781f12ad.chunk.js": "/mtech-induction/static/js/3.781f12ad.chunk.js",
+    "static/js/3.781f12ad.chunk.js.map": "/mtech-induction/static/js/3.781f12ad.chunk.js.map",
+    "index.html": "/mtech-induction/index.html",
+    "static/css/main.f65cb5ec.chunk.css.map": "/mtech-induction/static/css/main.f65cb5ec.chunk.css.map",
+    "static/js/2.cc2852f2.chunk.js.LICENSE.txt": "/mtech-induction/static/js/2.cc2852f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6fa1054.js",
+    "static/js/2.cc2852f2.chunk.js",
+    "static/css/main.f65cb5ec.chunk.css",
+    "static/js/main.04b289a3.chunk.js"
+  ]
+}
