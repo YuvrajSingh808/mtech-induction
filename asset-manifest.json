@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mtech-induction/static/css/main.f65cb5ec.chunk.css",
-    "main.js": "/mtech-induction/static/js/main.409ac16c.chunk.js",
-    "main.js.map": "/mtech-induction/static/js/main.409ac16c.chunk.js.map",
+    "main.js": "/mtech-induction/static/js/main.9982c68b.chunk.js",
+    "main.js.map": "/mtech-induction/static/js/main.9982c68b.chunk.js.map",
     "runtime-main.js": "/mtech-induction/static/js/runtime-main.e6fa1054.js",
     "runtime-main.js.map": "/mtech-induction/static/js/runtime-main.e6fa1054.js.map",
     "static/js/2.cc2852f2.chunk.js": "/mtech-induction/static/js/2.cc2852f2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e6fa1054.js",
     "static/js/2.cc2852f2.chunk.js",
     "static/css/main.f65cb5ec.chunk.css",
-    "static/js/main.409ac16c.chunk.js"
+    "static/js/main.9982c68b.chunk.js"
   ]
 }
