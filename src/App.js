@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import EventCalender from './calender';
+import Main from './main'
+import Speakers from './Event'
+import OurTeam from './team';
+import Footer from './footer';
+// import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return(<div className="dark:bg-dark-bg bg-light-bg">
+    <Main />
+    <Speakers />
+    <EventCalender />
+    <OurTeam />
+    <Footer />
+  </div>)
 }
 
 export default App;
